@@ -1,0 +1,31 @@
+/* Empty. Add your own CSS if you like */
+@font-face {
+    font-family: 'Segoe-Print';
+    src: url('../fonts/911Fonts.com_SegoePrint__-_911fonts.com-fonts-oki4.eot') format('embedded-opentype');
+}
+
+/*@font-face {
+    font-family: '911Fonts.com_SegoePrint__-_911fonts.com-fonts-oki4';
+    src: url('../fonts/911Fonts.com_SegoePrint__-_911fonts.com-fonts-oki4.ttf') format('truetype');
+}*/
+.text {
+    text-align: center;
+    font-size: 300%;
+}
+
+.buttonfooter {
+    margin-top: 40px;
+    
+}
+.menu{
+    margin:10px;
+    margin-bottom:unset;
+}
+.a , .b , .c , .d{
+    margin-top: 40px;
+}
+.lista{
+    text-decoration: none;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}

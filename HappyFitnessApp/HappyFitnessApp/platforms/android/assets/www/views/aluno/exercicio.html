@@ -1,0 +1,21 @@
+﻿<ion-view hide-back-button="true" hide-nav-bar="true">
+    <ion-header-bar align-title="center" class="bar-dark">
+        <div class="buttons">
+            <button class="button ion-chevron-left" ui-sref="treino"></button>
+        </div>
+        <h1 class="title">Happy Fitness</h1>
+    </ion-header-bar>
+    <ion-content class="padding">
+        <img class="full-image" src="img/fitness-training-311490_960_720.png" style="margin-top:20px;">
+        <p><b>Nome:</b></p>
+        <p><b>Séries:</b></p>
+        <p><b>Repetições:</b></p>
+        <p><b>Descrição:</b></p>
+        <label class="item item-input" style="margin-top:20px;">
+            <input type="text" placeholder="Obs:" ng-model="feedback">
+        </label>
+        <div class="bar-dark">
+            <button class="button button-full" ui-sref="treino">Finalizar</button>
+        </div>
+    </ion-content>
+</ion-view>
