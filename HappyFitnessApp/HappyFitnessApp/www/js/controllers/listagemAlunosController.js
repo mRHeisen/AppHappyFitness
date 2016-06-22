@@ -8,7 +8,7 @@ function listagemAlunosController($location) {
 
     //#region Variaveis
 
-    vm.tittle = "Happy Fitnes - Alunos";
+    vm.tittle = "Happy Fitness - Alunos";
 
     vm.model = [];
 

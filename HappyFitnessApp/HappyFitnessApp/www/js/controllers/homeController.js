@@ -8,7 +8,7 @@ function homeController($location) {
 
     //#region Variaveis
 
-    vm.tittle = "Happy Fitnes";
+    vm.tittle = "Happy Fitness";
 
     //#endregion
 
