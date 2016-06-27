@@ -31,6 +31,11 @@ angular.module('hfApp').config(function ($stateProvider, $urlRouterProvider) {
         templateUrl: '/views/aluno/listaTreino.html',
         controller: 'listaTreinoController as vm'
     })
+    .state('grafico', {
+        url: '/grafico',
+        templateUrl: '/views/aluno/grafico.html',
+        controller: 'graficoController as vm'
+    })
     .state('treino', {
         url: '/treino',
         templateUrl: '/views/aluno/treino.html',

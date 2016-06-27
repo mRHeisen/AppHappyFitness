@@ -13,7 +13,7 @@ function treinoController($http, $location, $stateParams) {
              QuantidadeRepeticoes: 10
         },
         {
-            Icone: 'img/Supino-declinado-com-halteres1.png',
+            Icone: 'img/Supino-Inclinado-1.png',
             Nome: 'Supino Inclinado ',
             QuantidadeSerie: 3,
             QuantidadeRepeticoes: 10
