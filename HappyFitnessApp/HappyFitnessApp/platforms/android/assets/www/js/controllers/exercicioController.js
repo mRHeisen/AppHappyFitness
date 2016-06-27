@@ -3,6 +3,5 @@
 
 exercicioController.$inject = ['$http', '$location', '$stateParams'];
 
-function exercicioController() {
-
+function exercicioController($location, $stateParams) {
 }

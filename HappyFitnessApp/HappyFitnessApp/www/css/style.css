@@ -1,7 +1,7 @@
 /* Empty. Add your own CSS if you like */
 @font-face {
-    font-family: 'Segoe-Print';
-    src: url('../fonts/911Fonts.com_SegoePrint__-_911fonts.com-fonts-oki4.eot') format('embedded-opentype');
+    font-family: 'Roboto';
+  
 }
 
 /*@font-face {
@@ -30,4 +30,7 @@
     text-decoration: none;
     margin-top: 40px;
     margin-bottom: 80px;
+}
+.padding {
+    font-family: 'Roboto';
 }
